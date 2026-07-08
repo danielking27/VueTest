@@ -4,6 +4,7 @@ This app is used for live Vue developer interviews.
 
 ## Start
 
+cd vue-interview-sandbox
 npm install
 npm run dev
 
